@@ -6,4 +6,4 @@ ReactCountry
 
 ------------------------------------
 
-[[!watch the video](https://img.youtube.com/vi/zt6gXsFU4k4/maxresdefault.jpg)](https://youtu.be/zt6gXsFU4k4)
+[[!watch the video](https://j.gifs.com/x6lj19.gif)](https://youtu.be/zt6gXsFU4k4)
