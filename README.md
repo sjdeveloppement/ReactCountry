@@ -5,5 +5,5 @@ ReactCountry
 - mapping JS
 
 ------------------------------------
-[!gif](https://github.com/sjdeveloppement/ReactCountry/blob/main/reactcountry/public/gif.gif)
+![gif](reactcountry/public/gif.gif)
 [!watch the video](https://youtu.be/zt6gXsFU4k4)
