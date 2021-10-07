@@ -6,4 +6,4 @@ ReactCountry
 
 ------------------------------------
 
-[!watch the video](https://github.com/sjdeveloppement/ReactCountry/blob/main/reactcountry/public/zoom_0.mp4)
+[!watch the video](https://youtu.be/zt6gXsFU4k4)
