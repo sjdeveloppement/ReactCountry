@@ -51,6 +51,26 @@ a:visited {
           transform: translateX(-50%);
 }
 
+@media screen and (max-width: 600px) {
+  .navigation {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-top: 50px;
+  }
+  .navigation .nav-active::after {
+    content: "";
+    width: 10%;
+    height: 3px;
+    background-color: #61dafb;
+    position: absolute;
+    bottom: 1px;
+    left: 8%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+  }
+}
 .logo {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -158,6 +178,12 @@ a:visited {
   color: #61dafb;
 }
 
+@media screen and (max-width: 600px) {
+  .card {
+    -webkit-box-shadow: none;
+            box-shadow: none;
+  }
+}
 .countries .sort-container {
   display: grid;
   grid-template-columns: 20% 80%;
@@ -203,5 +229,17 @@ a:visited {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+}
+
+@media screen and (max-width: 600px) {
+  .countries .sort-container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
 }
 /*# sourceMappingURL=index.css.map */

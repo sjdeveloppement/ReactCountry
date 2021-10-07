@@ -20,3 +20,22 @@
         }
     }
 }
+@media screen and(max-width: 600px){
+    .navigation{
+        flex-direction: column;
+        margin-top: 50px;
+        .nav-active {
+            &::after{
+                content:'';
+                width: 10%;
+                height: 3px;
+                background-color: $color-1;
+                position: absolute;
+                bottom: 1px;
+                left: 8%;
+                transform: translateX(-50%);
+            }
+        }
+    }
+    
+}
