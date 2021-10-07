@@ -1,0 +1,12 @@
+.navigation {
+  margin: 26px 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.navigation a {
+  margin: 10px;
+  padding: 10px;
+  position: relative;
+}
+/*# sourceMappingURL=navigation.css.map */
